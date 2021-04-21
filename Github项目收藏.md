@@ -1,32 +1,12 @@
-渗透测试笔记：
+渗透测试笔记：https://github.com/Techlord-RCE/Penetration-Testing
 
-```
-https://github.com/Techlord-RCE/Penetration-Testing
-```
+web渗透笔记：https://github.com/qazbnm456/awesome-web-security
 
-web渗透笔记：
+攻防思维导图：https://github.com/SecWiki/sec-chart
 
-```
-https://github.com/qazbnm456/awesome-web-security
-```
+AWS安全检测：https://github.com/stuhirst/awssecurity/blob/master/arsenal.md
 
-攻防思维导图：
-
-```
-https://github.com/SecWiki/sec-chart
-```
-
-AWS安全检测：
-
-```
-https://github.com/stuhirst/awssecurity/blob/master/arsenal.md
-```
-
-AWS安全工具：
-
-```
-https://github.com/toniblyx/my-arsenal-of-aws-security-tools
-```
+AWS安全工具：https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 服务器安全管理平台：https://github.com/chaitin/cloudwalker
 
