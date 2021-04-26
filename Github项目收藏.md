@@ -32,11 +32,7 @@ The official Exploit Database repository：https://github.com/offensive-security
 
 Evi1cg的学习笔记（很全）：https://github.com/Ridter/Intranet_Penetration_Tips
 
-冰蝎：https://github.com/rebeyond/Behinder
-
 docker容器逃逸：https://github.com/Xyntax/CDK/wiki/CDK-Home-CN
-
-Frp：https://github.com/fatedier/frp
 
 递归式寻找域名和api：https://github.com/p1g3/JSINFO-SCAN
 
@@ -57,3 +53,4 @@ CVE、CMS、中间件漏洞检测利用合集:https://github.com/mai-lang-chai/M
 W5 SOAR:https://github.com/w5teams/w5
 
 github_cve监测：https://github.com/yhy0/github-cve-monitor
+
