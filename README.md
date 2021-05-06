@@ -10,13 +10,15 @@
 
 [EHole(棱洞)-红队重点攻击系统指纹探测工具](https://github.com/EdgeSecurityTeam/EHole)
 
+[Glass是一款针对资产列表的快速指纹识别工具](https://github.com/s7ckTeam/Glass)
+
 [ESTeye(棱眼)-红蓝攻防中快速定位目标的真实资产](https://forum.ywhack.com/thread-114929-1-1.html)
 
 [DarkEye 渗透测试情报收集工具](https://github.com/zsdevX/DarkEye)
 
 [AppInfoScanner 适用于红队的移动端(Android、iOS、WEB、H5、静态网站)信息收集工具](https://github.com/kelvinBen/AppInfoScanner)
 
- [GitDorker Python程序，使用Github dorks从Github搜索敏感信息](https://github.com/obheda12/GitDorker)
+[GitDorker Python程序，使用Github dorks从Github搜索敏感信息](https://github.com/obheda12/GitDorker)
 
 [sherlock - 通过社交网络上的用户名搜寻社交媒体帐户](https://github.com/sherlock-project/sherlock)
 
@@ -368,7 +370,7 @@
 
 [有关渗透等的 Hack 技术分享。](https://book.hacktricks.xyz/)
 
- [二进制文库wiki](https://0x00sec.org/t/binary-armory-wiki/25679)
+[二进制文库wiki](https://0x00sec.org/t/binary-armory-wiki/25679)
 
 [Mobile App渗透测试备忘录](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 

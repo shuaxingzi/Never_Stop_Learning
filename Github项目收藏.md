@@ -40,8 +40,6 @@ GSIL信息监控：https://github.com/FeeiCN/GSIL
 
 Scanners Box：https://github.com/We5ter/Scanners-Box
 
-GitDorker：https://github.com/obheda12/GitDorker
-
 CTF&&AWD平台搭建：https://github.com/vidar-team/Cardinal
 
 FourEye：https://github.com/lengjibo/FourEye
