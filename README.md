@@ -1,5 +1,6 @@
 # Nerver_Stop_Learning
 学习记录
+
 在这里面每天需要提交一下自己每天的感想，学习记录等
 
 这个项目只是记录一下自己的学习，不做商业用途，如有侵权，欢迎联系我，及时清理，谢谢。
@@ -282,6 +283,8 @@
 
 [Red-Team-Infrastructure-Wiki 红队基础建设WIKI](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 
+[APT笔记](https://github.com/kbandla/APTnotes)
+
 [一些赏金技巧、知识和一些脚本](https://six2dez.gitbook.io/pentest-book/)
 
 [Purple Teaming 一些红队相关的技术分享](https://www.reddit.com/r/purpleteamsec/)
@@ -377,6 +380,8 @@
 [日常积累的一些红队工具及自己写的脚本](https://github.com/xiaoZ-hc/redtool)
 
 [Red Team Infrastructure](https://blog.joeminicucci.com/2021/redira)
+
+[蓝队资源集锦](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 
 ## 应急响应相关的资料以及工具
 
