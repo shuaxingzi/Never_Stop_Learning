@@ -397,4 +397,4 @@
 
 ## 个人微信
 
-![](.\images\个人微信.jpg)
+![https://github.com/shuaxingzi/Never_Stop_Learning/images/个人微信.jpg]()
