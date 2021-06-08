@@ -397,4 +397,5 @@
 
 ## 个人微信
 
-![https://github.com/shuaxingzi/Never_Stop_Learning/images/个人微信.jpg]()
+![https://github.com/shuaxingzi/Never_Stop_Learning/blob/main/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg]()
+
