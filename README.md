@@ -397,7 +397,5 @@
 
 ## 个人微信
 
-![https://github.com/shuaxingzi/Never_Stop_Learning/row/master/images/wx.jpg]()
-
-![image](https://github.com/shuaxingzi/Never_Stop_Learning/row/master/images/wx.jpg)
+![image](https://github.com/shuaxingzi/Never_Stop_Learning/blob/main/images/wx.jpg)
 
